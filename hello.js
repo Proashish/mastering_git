@@ -1,2 +1,2 @@
 console.log("hello");
-system.out.println("Hello World");
+console.log("Hello Ashish");
